@@ -27,3 +27,6 @@ Still designing:      </BR>
 Hotbar      </BR>
 Inventory      </BR>
 Bank      </BR>
+
+![image](https://github.com/user-attachments/assets/8af86895-b24c-4c88-bc3b-1540e35f08af)
+
